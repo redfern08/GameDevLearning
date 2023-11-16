@@ -1,0 +1,22 @@
+[gd_scene load_steps=4 format=3 uid="uid://cqcm53jq1nqch"]
+
+[ext_resource type="Texture2D" uid="uid://dxkd7cd0ox5t7" path="res://space_rocks_assets/assets/player_ship.png" id="1_25km1"]
+[ext_resource type="Script" path="res://player.gd" id="1_qt4l8"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_q0npr"]
+radius = 30.0
+
+[node name="Player" type="RigidBody2D"]
+linear_damp = 1.0
+angular_damp = 5.0
+script = ExtResource("1_qt4l8")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(489, 274)
+rotation = 1.5708
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_25km1")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(489, 275)
+shape = SubResource("CircleShape2D_q0npr")
