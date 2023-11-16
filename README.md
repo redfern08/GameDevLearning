@@ -5,4 +5,4 @@ The resource I am using is the Packt Godot 4 Game Development Projects book.  Th
 
 If you are interested in creating your own games and want to learn more, check out this book.
 
-Click [here]([here](https://www.packtpub.com/product/godot-4-game-development-projects-second-edition/9781804610404)https://www.packtpub.com/product/godot-4-game-development-projects-second-edition/9781804610404) for details. 
+Click [here](https://www.packtpub.com/product/godot-4-game-development-projects-second-edition/9781804610404) for details. 
