@@ -1,6 +1,8 @@
-# GameDevLearning
-My video game projects that are from books and tutorials using the Godot engine.
+# Space Rocks Game
+Space rocks is a 2D space game similar to the classic Astroids game.  This project is a demo and is built in Godot 4.
 
-Book source is Godot 4 Game Development Projects.
+The resource I am using is the Packt Godot 4 Game Development Projects book.  This project is not my own work.
 
-Will have own projects soon in another repo.
+If you are interested in creating your own games and want to learn more, check out this book.
+
+Click [https://www.packtpub.com/product/godot-4-game-development-projects-second-edition/9781804610404](here) for details. 
